@@ -40,7 +40,7 @@ This project demonstrates that psychological distress can be predicted using rea
 
 **Exceeded 70% accuracy target** while maintaining high recall for at-risk individuals.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Languages & Libraries:**
 - Python 3.12
